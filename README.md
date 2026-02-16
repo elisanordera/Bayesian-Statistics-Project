@@ -13,7 +13,7 @@ This repository contains the final project for the Bayesian Statistics course he
 The project is organized as follows, reflecting the workflow from data preprocessing to final model interpretation:
 
 ### 📁 Core Directories
-* `Data`: Contains all the datasets used throughout the different stages of the analysis and the script used to obtained df_balanced and df_reduced.
+* `Data`: Contains all the datasets used throughout the different stages of the analysis and the script used to obtain df_balanced and df_reduced.
 * `Models`: Contains all the Python notebooks used to run the **Stan codes** (`.stan`) of the models.
 
 ### 📜 Analysis & Report Scripts
