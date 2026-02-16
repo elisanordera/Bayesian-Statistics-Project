@@ -13,7 +13,7 @@ This repository contains the final project for the Bayesian Statistics course he
 The project is organized as follows, reflecting the workflow from data preprocessing to final model interpretation:
 
 ### 📁 Core Directories
-* `Data`: Contains all the datasets used throughout the different stages of the analysis.
+* `Data`: Contains all the datasets used throughout the different stages of the analysis and the script used to obtained df_balanced and df_reduced.
 * `Models`: Contains all the Python notebooks used to run the **Stan codes** (`.stan`) of the models.
 
 ### 📜 Analysis & Report Scripts
@@ -21,7 +21,6 @@ The following notebooks and scripts were used to process data and generate the f
 
 * **Preprocessing & Imputation**:
     * `mice.R`: Implementation of Multiple Imputation by Chained Equations for missing values.
-    * `Datasets_balanced_and_reduced.ipynb`: Script for datasets df_balanced and df_reduced.
     * `EDA.ipynb`: Exploratory Data Analysis.
 * **Model Selection & Inference**:
     * `Covariates_selection.ipynb`: Analysis of 23 covariates to exclude non-significant predictors.
