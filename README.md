@@ -14,9 +14,7 @@ The project is organized as follows, reflecting the workflow from data preproces
 
 ### 📁 Core Directories
 * `Data`: Contains all the datasets used throughout the different stages of the analysis.
-* `Model_1` to `Model_7`: Each folder is dedicated to a specific model iteration and contains:
-    * The **Stan code** (`.stan`) for the Bayesian multivariate mixed-effects structure.
-    * The **model pickle file** (`.pkl`) containing the compiled model.
+* `Models`: Contains all the Python notebooks used to run the **Stan codes** (`.stan`) of the models.
 
 ### 📜 Analysis & Report Scripts
 The following notebooks and scripts were used to process data and generate the final report:
