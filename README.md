@@ -13,8 +13,8 @@ This repository contains the final project for the Bayesian Statistics course he
 The project is organized as follows, reflecting the workflow from data preprocessing to final model interpretation:
 
 ### 📁 Core Directories
-* `Data/`: Contains all the datasets used throughout the different stages of the analysis.
-* `Model_1/` to `Model_7/`: Each folder is dedicated to a specific model iteration and contains:
+* `Data`: Contains all the datasets used throughout the different stages of the analysis.
+* `Model_1` to `Model_7`: Each folder is dedicated to a specific model iteration and contains:
     * The **Stan code** (`.stan`) for the Bayesian multivariate mixed-effects structure.
     * The **model pickle file** (`.pkl`) containing the compiled model.
 
