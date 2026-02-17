@@ -19,9 +19,9 @@ The project is organized as follows, reflecting the workflow from data preproces
 The following notebooks and scripts were used to process data and generate the final report:
 #### 1. Preprocessing & Data Management
 * **`mice.R`**: Implementation of **Multiple Imputation by Chained Equations** (MICE) for missing values management.
-* **`dataset_balanced_and_reduced.ipynb`**: Contains the logic and code for dataset manipulation, specifically:
-    * Creation of **`df_balanced`**: to address class imbalance.
-    * Creation of **`df_reduced`**: to generate an optimized/reduced version of the original dataset.
+* **`dataset_balanced_and_reduced.ipynb`**: Contains the code for dataset manipulation, specifically:
+    * Creation of **`df_balanced`**
+    * Creation of **`df_reduced`**
 * **`EDA.ipynb`**: **Exploratory Data Analysis** to visualize initial distributions and correlations.
 
 #### 2. Model Selection & Inference
