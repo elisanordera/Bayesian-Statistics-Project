@@ -11,9 +11,9 @@ This repository contains the final project for the Bayesian Statistics course he
 
 # Repository structure
 The project is organized as follows, reflecting the workflow from data preprocessing to final model interpretation:
+### Folders
 
-### Folder
-* `Models`: Contains all the Python notebooks used to run the **Stan codes** (`.stan`) of the models.
+* `Models`: Contains all the Python notebooks used to run the **Stan codes** (.stan) of the models.
 * `Slides`: Contains both the mid-term (November 2025) and final (February 2026) presentations.
 
 ### Report Scripts
