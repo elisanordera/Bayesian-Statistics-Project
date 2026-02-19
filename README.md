@@ -1,6 +1,6 @@
 # Bayesian-Statistics-Project
 
-This repository contains the final project for the Bayesian Statistics course held at Politecnico di Milano in the academic year 2025-2026. The study implements a Bayesian multivariate mixed-effects model to analyze and predict risk factors associated with Metabolic Syndrome.
+This repository contains the final project for the Bayesian Statistics course held at Politecnico di Milano in the academic year 2025-2026. The study implements a Bayesian multivariate mixed-effects model to analyze and predict risk factors associated with Metabolic Syndrome on an AVIS (Associazione Volontari Italiani del Sangue) dataset.
 
 # Table of contents
 - [Repository structure](#repository-structure)
@@ -14,6 +14,7 @@ The project is organized as follows, reflecting the workflow from data preproces
 
 ### Folder
 * `Models`: Contains all the Python notebooks used to run the **Stan codes** (`.stan`) of the models.
+* 'Slides': Contains both the mid-term (November 2025) and final (February 2026) presentations.
 
 ### Report Scripts
 The following notebooks and scripts were used to process data and generate the final report:
