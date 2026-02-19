@@ -14,7 +14,7 @@ The project is organized as follows, reflecting the workflow from data preproces
 
 ### Folder
 * `Models`: Contains all the Python notebooks used to run the **Stan codes** (`.stan`) of the models.
-* 'Slides': Contains both the mid-term (November 2025) and final (February 2026) presentations.
+* `Slides`: Contains both the mid-term (November 2025) and final (February 2026) presentations.
 
 ### Report Scripts
 The following notebooks and scripts were used to process data and generate the final report:
